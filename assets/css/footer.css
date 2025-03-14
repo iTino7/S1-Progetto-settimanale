@@ -1,0 +1,38 @@
+/* FOOTER */
+
+.containerFooter p:nth-child(2) {
+  border-bottom: 1px solid #fff;
+  display: inline;
+}
+
+.containerFooter {
+  background-color: #25a2c3;
+  text-align: center;
+  padding: 8px 40px 30px 40px;
+  color: #fff;
+}
+
+.containerFooter p {
+  line-height: 1.65em;
+  font-size: 18px;
+}
+
+.containerFooter h2 {
+  color: #fff;
+  font-size: 32px;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.containerFooter hr {
+  padding: 0 80px;
+  margin: 30px 120px;
+}
+
+.containerFooter a {
+  color: white;
+}
+
+.containerFooter span {
+  margin-right: 8px;
+}

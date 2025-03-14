@@ -1,3 +1,4 @@
+/* Reset */
 @import url(./reset.css);
 /* FONT */
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
@@ -8,7 +9,8 @@
 @import url(./containerInfo.css);
 @import url(./banner.css);
 @import url(./card.css);
-/* BODY */
+@import url(./footer.css);
+/* Body */
 
 body {
   font-family: "Open Sans", sans-serif;
