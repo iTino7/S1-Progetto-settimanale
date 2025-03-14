@@ -27,6 +27,7 @@
 .containerFooter hr {
   padding: 0 80px;
   margin: 30px 120px;
+  border: 1px solid #fff;
 }
 
 .containerFooter a {
