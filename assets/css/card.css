@@ -1,0 +1,35 @@
+/* CARD */
+
+.containerCard {
+  text-align: center;
+  padding: 0 40px;
+  background-color: #fff;
+}
+
+.card {
+  border: 1px solid #dee1e3;
+  border-radius: 4px;
+  margin: 20px 0;
+}
+
+.card img {
+  width: 100%;
+}
+
+.cardText {
+  padding: 0 26px;
+}
+
+.card h6 {
+  font-size: 20px;
+  font-weight: 500;
+  margin: 20px 0;
+}
+
+.card p {
+  color: #393d41;
+  font-weight: 300;
+  line-height: 1.65em;
+  font-size: 18px;
+  margin: 10px 0 18px 0;
+}

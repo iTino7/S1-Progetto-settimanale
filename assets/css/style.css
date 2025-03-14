@@ -7,6 +7,7 @@
 @import url(./mainCv.css);
 @import url(./containerInfo.css);
 @import url(./banner.css);
+@import url(./card.css);
 /* BODY */
 
 body {
@@ -20,4 +21,5 @@ h4,
 h5,
 h6 {
   font-family: "Montserrat", sans-serif;
+  color: #25a2c3;
 }
