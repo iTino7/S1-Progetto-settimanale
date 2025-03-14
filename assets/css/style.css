@@ -5,6 +5,8 @@
 /* Style CSS */
 @import url(./header.css);
 @import url(./mainCv.css);
+@import url(./containerInfo.css);
+@import url(./banner.css);
 /* BODY */
 
 body {
