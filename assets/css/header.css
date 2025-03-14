@@ -1,0 +1,11 @@
+/* HEADER */
+
+header {
+  background-color: black;
+  text-align: center;
+  padding: 40px 0;
+}
+
+header img {
+  width: 150px;
+}
